@@ -53,4 +53,10 @@ Thumbs.db
 .rpt2_cache/
 .rts2_cache_cjs/
 .rts2_cache_es/
-.rts2_cache_umd/ 
+.rts2_cache_umd/
+
+# Local workflow notes (not for the repo)
+CLAUDE.md
+NOTES.md
+DECISIONS.md
+TODO.md 
